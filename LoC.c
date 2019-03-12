@@ -130,7 +130,7 @@ int LineCount(FILE *pointer)
 					comment = 3;
 				}
 				break;
-				/**/
+				/*
 			case '\"':
 				//reset quote marker
 				if(comment == 4)
